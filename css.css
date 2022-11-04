@@ -1,0 +1,60 @@
+html {
+    background-color : #e6e9e9;
+    
+}
+
+body { 
+    background: #fff;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    
+}
+
+heather {
+    font-size: 18px;
+    font-weight: 800;
+
+
+}
+
+heather a:link {
+    text-decoration: none;
+
+   
+    
+}
+
+h1 { background-color :floralwhite;
+    letter-spacing: 0.3em;
+    padding-bottom : 20px;
+    
+    
+}
+
+h2 { background-color :floralwhite;
+letter-spacing: 0.1em ;
+padding-bottom : 10px;
+}
+
+nav > ul {
+    line-height: 2em;
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+section { background-color : aliceblue;
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    
+}
+
+
+footer { background-color: beige;
+   font-family: monospace, serif;
+	font-family: 'courier new', monospace;
+	font-size: 1em;
+    text-align: right;
+   
+}
